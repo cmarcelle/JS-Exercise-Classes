@@ -2,6 +2,7 @@
 
 This challenge focuses on using the new for ES6 `class` syntax.
 
+one major change to push my project 
 ## JavaScript Fundamentals
 
 ## Objectives
